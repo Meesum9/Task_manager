@@ -1,29 +1,24 @@
-git add .
-git commit -m "Add comprehensive README files"
-git pushgit add .
-git commit -m "Add comprehensive README files"
-git push
-## 🚀 Projects
+🚀 Projects
 
-### Task Manager
+ Task Manager
 A modern, responsive task management application built with React.
 - [View Project](/task-manager)
 - [Live Demo](https://meesum9.github.io/Task_manager/)
 
-## 🛠 Technologies Used
+#🛠 Technologies Used
 
 - React
 - JavaScript (ES6+)
 - HTML5 & CSS3
 - Git & GitHub
 
-## 📦 Getting Started
+ 📦 Getting Started
 
-### Prerequisites
+ Prerequisites
 - Node.js (v14 or higher)
 - npm (v6 or higher) or yarn
 
-### Installation
+ Installation
 
 1. Clone the repository:
    ```bash
@@ -49,15 +44,15 @@ A modern, responsive task management application built with React.
    yarn start
    ```
 
-## 🤝 Contributing
+ 🤝 Contributing
 
 Contributions are welcome! Feel free to submit issues and enhancement requests.
 
-## 📜 License
+ 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📬 Contact
+ 📬 Contact
 
 Meesum - [@your_twitter](https://twitter.com/your_twitter)
 
