@@ -1,0 +1,37 @@
+/* Reset and base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Remove default button styles */
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font: inherit;
+  outline: inherit;
+}
+
+/* Remove default input styles */
+input {
+  font: inherit;
+  outline: none;
+}
+
+/* Remove default list styles */
+ul, ol {
+  list-style: none;
+}
